@@ -1,5 +1,5 @@
 # Java-DSA-Learning
-# My dsa learning journey.
+My dsa learning journey.
 
-# TOPIC:
-# Arrays
+## TOPIC:
+- Arrays
